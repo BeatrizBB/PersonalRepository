@@ -1,0 +1,10 @@
+*.tif
+*.tiff
+*.xsg
+*DS_Store
+*.doc
+*.ppt
+*.pptx
+*.m~ #mac
+*.asv #windows
+figures
